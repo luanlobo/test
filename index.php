@@ -13,7 +13,7 @@
     <body id="body"">
           <div>
               <script>$(document).ready(fn)</script>
-        </div>asas
+        </div>xxx
     </body>
 </html>
 e
